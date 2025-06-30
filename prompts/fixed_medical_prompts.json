@@ -1,0 +1,36 @@
+{
+  "abnormal": {
+    "instruction": "Fixed medical abnormal prompts",
+    "prompts": [
+      "mild subsegmental atelectasis at the mid lung zone",
+      "minimal linear atelectasis at the upper lung zone",
+      "trace bibasilar atelectasis at the right lung zone",
+      "cardiac silhouette size is upper limits of normal",
+      "mildly prominent cardiac silhouette",
+      "portable view of the chest demonstrates stable cardiomegaly",
+      "increased bilateral consolidation at the lower lung zone",
+      "improved reticular consolidation at the upper lung zone",
+      "appearance of patchy consolidation at the left lower lobe",
+      "mild pulmonary edema",
+      "improvement in trace interstitial edema",
+      "persistent pulmonary interstitial edema",
+      "small bilateral pleural effusion",
+      "stable subpulmonic pleural effusion",
+      "large bilateral pleural effusion"
+    ]
+  },
+  "normal": {
+    "instruction": "Fixed medical normal prompts",
+    "prompts": [
+      "This is a sample report for task1 with sufficient length.",
+      "Another example report for task1 with detailed findings.",
+      "Task1 report highlighting key observations and conclusions.",
+      "Detailed analysis report for task2 with comprehensive data.",
+      "Task2 findings summarized in this report.",
+      "Key insights and observations for task2 are documented here.",
+      "Task3 report with critical observations and recommendations.",
+      "In-depth report for task3 with all necessary details.",
+      "Summary of findings for task3 with actionable insights."
+    ]
+  }
+} 

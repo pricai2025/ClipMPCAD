@@ -1,0 +1,52 @@
+{
+  "abnormal": {
+    "instruction": "Medical imaging abnormality description prompts",
+    "prompts": [
+      "an image showing pathological changes in the {classname}",
+      "a medical scan revealing abnormalities in the {classname}",
+      "a diagnostic image of diseased {classname} tissue",
+      "a medical image showing lesions in the {classname}",
+      "an abnormal {classname} scan with visible pathology",
+      "a medical image of {classname} with structural anomalies",
+      "a diagnostic scan showing {classname} inflammation",
+      "a medical image revealing {classname} tumors",
+      "an image of {classname} with visible tissue damage",
+      "a scan showing degenerative changes in the {classname}",
+      "a medical image of infected {classname} tissue",
+      "a diagnostic scan revealing {classname} malformations",
+      "an image showing necrotic tissue in the {classname}",
+      "a medical scan of {classname} with visible cysts",
+      "a pathological image of {classname} abnormalities",
+      "a diagnostic image showing {classname} calcification",
+      "a medical scan revealing {classname} hemorrhage",
+      "an image of {classname} with visible edema",
+      "a scan showing inflammatory changes in the {classname}",
+      "a medical image of {classname} with visible masses"
+    ]
+  },
+  "normal": {
+    "instruction": "Medical imaging normal description prompts",
+    "prompts": [
+      "a normal medical scan of healthy {classname}",
+      "a clear diagnostic image of {classname}",
+      "a healthy {classname} scan without abnormalities",
+      "a medical image showing normal {classname} structure",
+      "a standard diagnostic scan of {classname}",
+      "a medical image of healthy {classname} tissue",
+      "a normal anatomical view of {classname}",
+      "a clear medical scan showing healthy {classname}",
+      "a diagnostic image of normal {classname} anatomy",
+      "a medical scan showing typical {classname} features",
+      "a healthy baseline image of {classname}",
+      "a standard medical view of normal {classname}",
+      "a clear scan of healthy {classname} tissue",
+      "a medical image showing regular {classname} patterns",
+      "a diagnostic scan of normal {classname} structure",
+      "a medical image revealing healthy {classname} tissue",
+      "a standard anatomical scan of {classname}",
+      "a clear diagnostic view of healthy {classname}",
+      "a medical scan showing normal {classname} density",
+      "a typical imaging appearance of healthy {classname}"
+    ]
+  }
+}

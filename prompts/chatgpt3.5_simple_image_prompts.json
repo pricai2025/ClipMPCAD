@@ -1,0 +1,52 @@
+{
+  "abnormal": {
+    "instruction": "Simple abnormal image description prompts",
+    "prompts": [
+      "a photo showing a damaged {}",
+      "an image of a broken {}",
+      "a picture of a {} with flaws",
+      "a snapshot of a defective {}",
+      "a view of a {} with visible damage",
+      "a photo capturing a {} with imperfections",
+      "an image displaying a {} with defects",
+      "a picture showing a {} with issues",
+      "a snapshot of a {} in poor condition",
+      "a view of a {} with noticeable wear",
+      "a photo of a {} with cracks",
+      "an image of a {} with scratches",
+      "a picture of a {} with dents",
+      "a snapshot of a {} with tears",
+      "a view of a {} with broken parts",
+      "a photo capturing a {} with missing pieces",
+      "an image displaying a {} with rust",
+      "a picture showing a {} with discoloration",
+      "a snapshot of a {} with faded colors",
+      "a view of a {} with chipped edges"
+    ]
+  },
+  "normal": {
+    "instruction": "Simple normal image description prompts",
+    "prompts": [
+      "a photo of a perfect {}",
+      "an image of a flawless {}",
+      "a picture of a pristine {}",
+      "a snapshot of an intact {}",
+      "a view of a {} in excellent condition",
+      "a photo capturing a {} without flaws",
+      "an image displaying a {} in good shape",
+      "a picture showing a {} in top condition",
+      "a snapshot of a {} with no defects",
+      "a view of a {} in perfect order",
+      "a photo of a {} with smooth surfaces",
+      "an image of a {} with bright colors",
+      "a picture of a {} with clear details",
+      "a snapshot of a {} with sharp edges",
+      "a view of a {} with vibrant hues",
+      "a photo capturing a {} with polished finish",
+      "an image displaying a {} with even texture",
+      "a picture showing a {} with uniform color",
+      "a snapshot of a {} with glossy appearance",
+      "a view of a {} with seamless design"
+    ]
+  }
+}
