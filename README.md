@@ -27,7 +27,7 @@ PCAD, achieving average classification & segmentation accuracies of
 
 **Keywords**: Few-Shot, Large Vision-Language Model, Anomaly Classification and Segmentation
 
-<center><img src="images/pipeline.png "width="80%"></center>
+<center><img src="images/madff.png "width="80%"></center>
 
 ## Get Started
 
@@ -148,5 +148,5 @@ We borrow some codes from [OpenCLIP](https://github.com/mlfoundations/open_clip)
 
 ## Contact
 
-If you have any problem with this code, please feel free to contact **huangchaoqin@sjtu.edu.cn** and **stillunnamed@sjtu.edu.cn**.
+If you have any problem with this code, please feel free to contact **** and ****.
 
