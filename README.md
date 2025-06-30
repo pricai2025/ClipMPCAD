@@ -6,7 +6,7 @@ This is an official implementation of “Few-Shot Anomaly Detection with LLM-Gui
 
 
 
-<center><img src="images/MVFA.png "width="60%"></center>
+<center><img src="images/clipmpcad.png "width="60%"></center>
 
 **Abstract**:   Abstract. Anomaly detection in medical and industrial images often faces challenges such as limited data availability and strict privacy constraints, which hinder large-scale model training. Although pre-trained large vision-language models (VLMs) offer promise in few-shot anomaly detection (FSAD), their effectiveness is limited by weak cross-modal
  alignment, insufficient domain-specific supervision, and poor sensitiv
