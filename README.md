@@ -2,7 +2,6 @@
 
 This is an official implementation of “Few-Shot Anomaly Detection with LLM-Guided Prompts and Multi-Attention Fusion” with PyTorch.
 
-[Paper Link](https://arxiv.org/abs/2403.12570)
 
 
 
