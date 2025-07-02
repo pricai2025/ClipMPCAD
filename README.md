@@ -2,7 +2,7 @@
 
 This is an official implementation of “Few-Shot Anomaly Detection with LLM-Guided Prompts and Multi-Attention Fusion” with PyTorch.
 
-
+--------------------------------------------------------------------------------------------------------------------------------------
 
 
 <center><img src="images/clipmpcad.png "width="60%"></center>
@@ -62,6 +62,8 @@ Single NVIDIA A40 GPU
     tar -xvf Retina_RESC.tar.gz
     tar -xvf Retina_OCT2017.tar.gz
     tar -xvf Chest.tar.gz
+    tar -xvf Mvtec.tar.gz
+    tar -xvf MPDD.tar.gz
     ```
 
 
