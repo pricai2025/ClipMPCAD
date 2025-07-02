@@ -41,7 +41,7 @@ Single NVIDIA A40 GPU
 
 ### Medical Anomaly Detection Benchmark
 
-1. (optional) Follow the [BMAD](https://github.com/DorisBao/BMAD) to apply for permission to download the relevant dataset. After extracting the data, reorganize the data benchmark according to the guidelines provided in our Appendix A.
+1. (optional) Follow the [BMAD](https://github.com/DorisBao/BMAD) to apply for permission to download the relevant dataset. 
 2. We also provide the pre-processed benchmark. Please download the following dataset
 
     * Liver: https://drive.google.com/file/d/1xriF0uiwrgoPh01N6GlzE5zPi_OIJG1I/view?usp=sharing
