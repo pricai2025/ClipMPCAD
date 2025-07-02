@@ -44,12 +44,14 @@ Single NVIDIA A40 GPU
 1. (optional) Follow the [BMAD](https://github.com/DorisBao/BMAD) to apply for permission to download the relevant dataset. 
 2. We also provide the pre-processed benchmark. Please download the following dataset
 
-    * Liver: https://drive.google.com/file/d/1xriF0uiwrgoPh01N6GlzE5zPi_OIJG1I/view?usp=sharing
-    * Brain: https://drive.google.com/file/d/1YxcjcQqsPdkDO0rqIVHR5IJbqS9EIyoK/view?usp=sharing
-    * HIS: https://drive.google.com/file/d/1hueVJZCFIZFHBLHFlv1OhqF8SFjUVHk6/view?usp=sharing
-    * RESC: https://drive.google.com/file/d/1BqDbK-7OP5fUha5zvS2XIQl-_t8jhTpX/view?usp=sharing
-    * OCT17: https://drive.google.com/file/d/1GqT0V3_3ivXPAuTn4WbMM6B9i0JQcSnM/view?usp=sharing
-    * ChestXray: https://drive.google.com/file/d/15DhnBAk-h6TGLTUbNLxP8jCCDtwOHAjb/view?usp=sharing
+    * Liver: ----------------------------------------------------------------------------------
+    * Brain: ----------------------------------------------------------------------------------
+    * HIS: ----------------------------------------------------------------------------------
+    * RESC: ----------------------------------------------------------------------------------
+    * OCT17: ----------------------------------------------------------------------------------
+    * ChestXray: ----------------------------------------------------------------------------------
+    * Mvtec-AD: ----------------------------------------------------------------------------------
+    * MPDD: ----------------------------------------------------------------------------------
 
 3. Place it within the master directory `data` and unzip the dataset.
 
