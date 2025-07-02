@@ -52,6 +52,7 @@ Single NVIDIA A40 GPU
     * ChestXray: ----------------------------------------------------------------------------------
     * Mvtec-AD: ----------------------------------------------------------------------------------
     * MPDD: ----------------------------------------------------------------------------------
+    * BTAD: ----------------------------------------------------------------------------------
 
 3. Place it within the master directory `data` and unzip the dataset.
 
@@ -64,6 +65,7 @@ Single NVIDIA A40 GPU
     tar -xvf Chest.tar.gz
     tar -xvf Mvtec.tar.gz
     tar -xvf MPDD.tar.gz
+    tar -xvf BTAD.tar.gz
     ```
 
 
